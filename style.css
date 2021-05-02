@@ -1,0 +1,55 @@
+.social-icon a{
+    color: #8a93b2;
+    font-size: 30px;
+    
+}
+.social-icon a:hover{
+    color: #64ffd9;
+}
+.protfolio-1{
+    background-image: url(./images/panda.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 160px;
+    border: 1px solid rebeccapurple;
+    border: 5px solid #8a93b2;
+    box-shadow: 1px 2px 4px  #64ffd9;
+
+}
+.protfolio-2{
+    background-image: url(./images/hunter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 160px;
+    border: 1px solid rebeccapurple;
+    border: 5px solid #8a93b2;
+    box-shadow: 1px 2px 4px  #64ffd9;
+
+}
+.protfolio-3{
+    background-image: url(./images/computerRipo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 160px;
+    border: 5px solid #8a93b2;
+    box-shadow: 1px 2px 4px  #64ffd9;
+
+}
+.project-link{
+    display: flex;
+    flex-wrap: wrap;
+}
+.project-link button{
+    font-family: 'Space Mono', monospace;
+    color:#64ffd9 ;
+    margin-left: 105px;
+    margin-top: 20px;
+    border: 1px solid #64ffd9;
+    border-radius: 5px;
+    padding:0 18px;
+    font-family: 'Space Mono', monospace;
+    background-color: #0f1e35;
+}
